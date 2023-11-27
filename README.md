@@ -42,6 +42,11 @@ cd meOwna
 service apache2 start
 #acesse http://localhost  
 ```
+
+
+https://github.com/ismael0liveira/meowna/assets/70406460/7d1d9ed5-1d56-43af-8bd5-9e93f03df0f5
+
+
 ## Sobre o autor
 
 Ismael Oliveira
