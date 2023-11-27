@@ -1,7 +1,7 @@
 # meowna
 Uma aplicação web propositalmente vulnerável para você ownar
 
-##Passos para Instalação:
+## Passos para Instalação:
 
 1° -> apt install apache2  
 2° -> apt install php  
