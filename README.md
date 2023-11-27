@@ -44,7 +44,9 @@ service apache2 start
 ```
 
 
-https://github.com/ismael0liveira/meowna/assets/70406460/7d1d9ed5-1d56-43af-8bd5-9e93f03df0f5
+https://github.com/ismael0liveira/meowna/assets/70406460/58bdf498-8e46-4725-8f86-1c5828488534
+
+
 
 
 ## Sobre o autor
