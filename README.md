@@ -5,9 +5,10 @@ Uma aplicação web propositalmente vulnerável para você ownar
 
 1° -> apt install apache2  
 2° -> apt install php  
-3° -> cd /var/www/html  
-4° -> mv /home/user/Downloads/meowna.zip .  
-5° -> unzip meowna.zip  
-6° -> cd meOwna  
-7° -> service apache2 start  
-8° -> acesse http://localhost  
+3° -> nano php.ini, configure allow_url_fopen = On  e allow_url_include = On  
+4° -> cd /var/www/html  
+5° -> mv /home/user/Downloads/meowna.zip .  
+6° -> unzip meowna.zip  
+7° -> cd meOwna  
+8° -> service apache2 start  
+9° -> acesse http://localhost  
